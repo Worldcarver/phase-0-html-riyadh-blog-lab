@@ -21,16 +21,16 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(21, 18, 199, 0.85);
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: rgb(211, 26, 26);
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 5em;
   margin-bottom: 0;
 }
 
@@ -47,7 +47,7 @@ h3 {
 
 img {
   max-width: 100%;
-  width: 100%;
+  width: 85%;
   height: auto;
 }
 
